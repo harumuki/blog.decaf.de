@@ -7,7 +7,7 @@ timezone: Europe/Berlin
 permalink: /:year/:month/:day/:title/
 paginate: 10
 paginate_path: "/page/:num/"
-url: https://blog.decaf.de
+url: https://letwish.net
 
 # Optional plugins
 # https://help.github.com/articles/configuring-jekyll-plugins/#optional-plugins
@@ -21,7 +21,7 @@ plugins:
 
 # SEO
 # https://github.com/jekyll/jekyll-seo-tag
-title: DECAF Blog
+title: Letwish Blog
 description: "Web-driven software company based in Berlin and Langenberg/NRW, Germany: Design/UX, Laravel + React."
 keywords: wait, what?
 
